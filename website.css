@@ -1,0 +1,46 @@
+body{
+    font-family: sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    z-index: 2;
+    width: 30%;
+    position: fixed;
+    font-size: 18px;
+    color: antiquewhite;
+}
+
+.centre{
+    text-align: center;
+}
+
+.name{
+    position: absolute;
+    top: 600px;
+}
+.right{
+position: relative;
+left: 700px;
+width: 40%;
+line-height: 30px;
+color: grey;
+font-weight: 100;
+font-size: 14px;
+}
+#second{
+    position: relative;
+    width: 40%;
+    height: 200px;
+    text-align: center;
+    line-height: 30px;
+    color: grey;
+    font-weight: 100;
+    font-size: 14px;
+    margin-left: 100px;
+    top: 210px;
+    align-items: center;
+    letter-spacing: 8px;
+    }
+    
+   

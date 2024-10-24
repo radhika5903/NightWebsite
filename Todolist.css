@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+}
+#btn{
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+}

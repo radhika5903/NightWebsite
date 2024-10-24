@@ -1,0 +1,14 @@
+body{
+    background-color: coral;
+}
+div{
+    text-align: center;
+}
+#btn{
+    background-color: cadetblue;
+    border-style: double;
+}
+#btn:hover {
+    background-color: #45a049; /* Darker green on hover */
+    transform: scale(1.05);    /* Slightly enlarge the button */
+}
